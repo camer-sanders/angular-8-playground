@@ -1,0 +1,1 @@
+Following along the book [Angular Projects: Build nine real-world applications from scratch using Angular 8 and TypeScript](https://www.amazon.com/Angular-Projects-real-world-applications-TypeScript-ebook/dp/B07XLKCZMJ).
